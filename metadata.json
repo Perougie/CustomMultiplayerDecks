@@ -4,6 +4,7 @@
     "display_name": "Multi-Decks",
     "author": ["PerougieRavioli"],
     "description": "16 new decks balanced around the balatro 'Multiplayer' mod",
+    "website_url": "https://github.com/Perougie/CustomMultiplayerDecks",
     "prefix": "multidecks",
     "main_file": "main.lua",
     "version": "0.0.1",

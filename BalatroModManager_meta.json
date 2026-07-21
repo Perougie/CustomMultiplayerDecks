@@ -1,0 +1,12 @@
+{
+    "title": "Multi-Decks",
+    "requires-steamodded": true,
+    "requires-talisman": false,
+    "categories": ["Content"],
+    "author": "Joe Mama",
+    "repo": "https://github.com/Perougie/CustomMultiplayerDecks",
+    "downloadURL": "https://github.com/Perougie/CustomMultiplayerDecks/archive/refs/tags/v0.0.1.zip",
+    "folderName": "CustomMultiplayerDecks",
+    "automatic-version-check": true,
+    "fixed-release-tag-updates": true
+}
