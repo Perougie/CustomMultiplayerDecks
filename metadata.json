@@ -1,0 +1,13 @@
+{
+    "id": "multidecks",
+    "name": "CustomMultiplayerDecks",
+    "display_name": "Custom Multiplayer Decks",
+    "author": ["PerougieRavioli"],
+    "description": "Hi",
+    "prefix": "multidecks",
+    "main_file": "main.lua",
+    "version": "0.0.1",
+    "priority": 0,
+    "conflicts": ["Steamodded (<<1.0.0~BETA-0624a)"],
+    "dependencies": ["Steamodded (>=1.0.0~BETA-1814a)"]
+}
