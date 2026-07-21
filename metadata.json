@@ -8,6 +8,8 @@
     "main_file": "main.lua",
     "version": "0.0.1",
     "priority": 0,
+    "badge_colour": "ffffff",
+	"badge_text_colour": "4F6367",
     "conflicts": ["Steamodded (<<1.0.0~BETA-0624a)"],
     "dependencies": ["Steamodded (>=1.0.0~BETA-1814a)"]
 }
